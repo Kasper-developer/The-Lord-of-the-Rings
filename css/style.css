@@ -1,0 +1,97 @@
+body {
+	background: url(../img/white-buds.png) repeat ;
+	margin-left: 25px;
+	margin-right: 25px;
+	max-width: 1850px;
+	font-size: 18px;
+}
+
+.short__link {
+	font-size: 20px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.short__link a, a {
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+}
+
+.short__link a:hover ,a:hover {
+	font-weight: bold;
+	color: red;
+}
+
+span {
+	font-weight: bold;
+	font-size: 21px;
+	background-color: yellow;
+}
+
+.link--bold {
+	font-weight: bold;
+	background-color: rgb(116, 230, 9);
+	padding: 7px;
+	border-radius: 8px;
+	font-style: 19px;
+}
+
+.linkto-begin {
+	margin-bottom: 15px;
+}
+
+.link--bold:hover {
+	font-size: 24px;
+	color: black;
+}
+
+.img {
+	margin-left: 200px;
+	width: 600px;
+	height: 600px;
+}
+
+.img__title {
+	display: inline-block;
+	margin-left: 670px;
+	font-weight: bold;
+	padding: 8px;
+	font-size: 22px;
+	background-color: rgb(246, 189, 0);
+	border-radius: 10px;
+}
+
+.forms {
+	margin-bottom: 20px;
+}
+
+.fieldset {
+	width: 500px;
+}
+
+.fieldset__title {
+	font-size: 30px;
+	font-family: courier;
+	font-weight: bold;
+}
+
+input {
+	padding: 6px;
+	margin-bottom: 5px;
+}
+
+.textarea {
+	margin-top: 10px;
+}
+
+.reset {
+	margin-top: 10px;
+	width: 120px;
+}
+
+.submit {
+	margin-left: 30px;
+	width: 120px;
+	height: 32px;
+}
