@@ -2,7 +2,7 @@ body {
 	background: url(../img/white-buds.png) repeat ;
 	margin-left: 25px;
 	margin-right: 25px;
-	max-width: 1850px;
+	max-width: 1535px;
 	font-size: 18px;
 }
 
@@ -53,7 +53,7 @@ span {
 
 .link--bold {
 	font-weight: bold;
-	background-color: rgb(116, 230, 9);
+	background-color: rgb(246, 189, 0);
 	padding: 7px;
 	border-radius: 8px;
 	font-style: 19px;
@@ -69,14 +69,14 @@ span {
 }
 
 .img {
-	margin-left: 200px;
-	width: 600px;
-	height: 600px;
+	margin-left: 100px;
+    width: 450px;
+    height: 500px;
 }
 
 .img__title {
 	display: inline-block;
-	margin-left: 670px;
+	margin-left: 340px;
 	font-weight: bold;
 	padding: 8px;
 	font-size: 22px;
